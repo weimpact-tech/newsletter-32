@@ -1,0 +1,146 @@
+{
+  "previa": "Temos uma edição especial para você.",
+  "artigoDestaque": {
+    "numeroEdicao": "32",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/destaque_news32.png",
+    "alt": "FOTO: Cris Miura",
+    "titulo": "Construindo uma jornada de sucesso  links de fundo bege na style= \"color: #520b9e\"!!!!!!!!!!",
+    "texto": [
+      "Em maio, a WE Impact realizou o primeiro exit do portfólio com a Edutech Pontue! Essa conquista, que marca nossa história, a da startup e de suas fundadoras, não poderia passar despercebida durante o mês do empreendedorismo feminino.",
+      "Todo esse processo teve início quando a educadora Cris Miura enxergou no empreendedorismo e na tecnologia uma oportunidade de transformar o cenário educacional do país e gerar um impacto positivo.",
+      "Ao longo dos anos, ela construiu esse propósito ao lado de sua sócia, Livia Maria Silva Toledo. Ao ser adquirida pela FTD Educação, a Pontue está mais próxima do seu propósito do que nunca. A startup passa a integrar um conjunto de soluções para o ambiente escolar, visando solucionar desafios ligados a gestão escolar, experiência do usuário, acessibilidade, internacionalização e ambiente de aprendizagem.",
+      "Como Cris Miura construiu essa jornada de sucesso? Como superou os desafios, onde encontrou apoio, que competências precisou desenvolver, como identificou as oportunidades e quais são seus próximos planos?",
+      "As respostas para essas e outras perguntas você encontra no blog da WE Impact."
+    ],
+    "linkBotao": "https://www.weimpact.tech/blog-empreendedorismo-feminino-suscesso",
+    "botao": "Clique para ler"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ]
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "O que podemos aprender com as investidas WE?",
+    "img": "./img/win_news32.png",
+    "alt": "FOTO – Gabrielle Jaquier, Gabriela Lea e Luciana Ramos",
+    "linkedinAutora": "",
+    "nomeAutora": "Amanda Andreone",
+    "descricaoAutora": "investidora no BR Angels",
+    "texto": [
+      "É uma mulher em busca de sucesso na jornada empreendedora? Para marcar o seu mês, vamos compartilhar conselhos valiosos das Investidas WE Impact:",
+      "Luciana Ramos, cofundadora e CEO da Cashin: \"Não desista. Se você tem certeza de que seu produto é bom para as pessoas e que você realiza esse serviço muito bem, persista.\"",
+      "Gabriela Lea, cofundadora e COO da Unbox: \"Esteja realmente presente nas conversas que você tem com o seu time; somente assim você entenderá como pode guiá-los.\"",
+      "Gabrielle Jaquier, cofundadora e CEO da Venuxx: \"É importante dominar o que está falando e fazendo. Estude e busque informações. Em um cargo de liderança, você irá ensinar e orientar outras pessoas.\""
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/blog-mulheres-empreendedoras-tech/",
+    "botao": "Leia mais"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "O Brasil é feminino",
+    "img": "./img/diversidade_news32.png",
+    "alt": "imagem ilustrativa",
+    "texto": [
+      "Pela primeira vez em cinco décadas, as mulheres constituem a maioria em todas as grandes regiões do Brasil, segundo os dados do Censo Demográfico de 2022 recentemente divulgados pelo IBGE.",
+      "Esse dado reforça a importância de promover a equidade e a diversidade de gênero nas empresas e nos ecossistemas de tecnologia e inovação.",
+      "Ao considerar as características e especificidades das mulheres no desenvolvimento de soluções, é mais provável que os novos produtos e serviços levem em conta as necessidades e perspectivas de uma parte significativa do público consumidor: as mulheres."
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": [
+      "texto lista JSON",
+      "texto lista JSON"
+    ],
+    "linkBotao": "https://forbes.com.br/forbes-mulher/2023/10/brasil-e-feminino-mulheres-sao-maioria-em-todas-as-regioes-pela-primeira-vez/",
+    "botao": "Saiba mais"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Título JSON",
+    "img": "./img/dicadaceo_news32.png",
+    "alt": "Foto Lícia Souza",
+    "texto": [
+      "A expansão excessiva pode ser sim uma manifestação do excesso de confiança. Uma startup é uma empresa em busca de um modelo de negócios. A injeção exacerbada de capital é uma das principais molas que impulsionam o ego de empreendedores e, consequentemente, o excesso de confiança.",
+      "Uma poderosa ferramenta de ponderação de ritmo de crescimento é justamente ir validando aos poucos o modelo de negócios, com evidências que norteiam os negócios: o resultado financeiro. É preciso voltar ao básico, ainda que em empresas inovadoras.",
+      " - Lícia Souza, CEO da WE Impact, sobre as lições que podemos aprender com o caso WeWork. https://revistapegn.globo.com/startups/noticia/2023/11/wework-4-licoes-que-empreendedores-podem-aprender-com-a-crise-da-empresa.ghtml"
+    ],
+    "linkedinAutora": "",
+    "nomeAutora": "Victoria Prado",
+    "descricaoAutora": "fundadora da Plann to Go"
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/elasimpactam_news32.png",
+    "alt": "FOTO – Cáren Cruz",
+    "titulo": "Empreendedora cria consultoria de imagem focada em empreendedoras negras",
+    "texto": [
+      "É possível romper padrões e considerar a inclusão e diversidade ao definir o seu estilo. Foi exatamente isso que ela pensou ao não se sentir representada nas consultorias de imagem, levando-a a criar sua própria empresa.",
+      "Especializando-se na área, fundou em 2020 a Pittaco Consultoria, com foco em fornecer consultorias de imagem para empreendedoras negras. Apenas no ano passado, atendeu a mais de 1,2 mil pessoas e planeja lançar um aplicativo.",
+      "Ela vai além do básico; durante suas consultas, concentra-se nos códigos sociais e nos contextos individuais de cada uma das mulheres."
+    ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://revistapegn.globo.com/mulheres-empreendedoras/noticia/2023/11/empreendedora-cria-consultoria-de-imagem-focada-em-empreendedoras-negras.ghtml",
+    "botao": "Saiba mais"
+  },
+  "empresasQueTransformam": {
+    "tituloSecao": "#EmpresasQueTransformam",
+    "img": "./img/empresasquetransformam_news32.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Suzano e porto no Ranking TOP 100 Open Corps",
+    "texto": [
+      "A Suzano e a Porto, duas empresas integrantes da WE Impact Network, estão no Ranking TOP 100 Open Corps, que avalia as empresas mais engajadas no ecossistema de Inovação Aberta.",
+      "O levantamento, promovido pela 100 Open Startups, é composto com base nos relacionamentos de inovação aberta registrados pelas empresas e/ou pelas startups parceiras.",
+      "A Suzano ficou entre as 10 corporações que mais promovem esse tipo de relacionamento e foi a primeira colocada quando analisamos as empresas do setor de papel e celulose. A Porto também lidera seu segmento, sendo a seguradora que mais contrata startups no país."
+    ],
+    "textoLista": [
+      "texto lista JSON"
+    ],
+    "linkBotao": "https://www.openstartups.net/site/ranking/rankings-corps.html",
+    "botao": "Confira o Ranking"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/namidia_news32.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Cashin cria a campanha Peru Digital, com premiação digital",
+    "texto": [
+      "A campanha de fim de ano da nossa investida Cashin, a primeira solução 100% digital do mercado de prêmios de incentivo, chamou a atenção da mídia.",
+      "A iniciativa utiliza o humor para demonstrar que, em vez de prêmios tradicionais, é possível utilizar a plataforma para oferecer autonomia e garantir a motivação dos colaboradores.",
+      "Saiba mais sobre a campanha e a solução:"
+    ],
+    "linkBotao": "https://www.mundodomarketing.com.br/ativacoes/cashin-cria-a-campanha-peru-digital-com-premiacao-digital/",
+    "botao": "Ler matéria"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/narede_news32.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Quais são as apostas de especialistas para a tecnologia e a inovação em 2022? Recentemente, compartilhamos no nosso Linkedin uma matéria bem bacana que cita 4 tendências desse mercado e explica por que você deve ficar de olho nelas!",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:6886007947252563968/",
+    "botao": "Veja o post"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Nossa CEO, Lícia Souza, participou do Café da Manhã do Pacto Global da ONU no Brasil. Ela se uniu a outras lideranças comprometidas com os movimentos Raça é Prioridade e Elas Lideram 2030. Além das trocas de experiências e debates sobre o tema, o grupo abordou de maneira interseccional a Lei 14.611/2023, que trata de medidas para garantir a igualdade salarial.",
+    "linkBotao": "https://www.linkedin.com/feed/update/urn:li:activity:7128436934154043393",
+    "botao": "Veja o post"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
